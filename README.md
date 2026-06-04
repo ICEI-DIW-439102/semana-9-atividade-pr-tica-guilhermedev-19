@@ -5,14 +5,14 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Guilherme Enzo A. Ferreira
+- Matricula: 907785
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![Texto alternativo](https://prnt.sc/rBaPIG8oudzX)
 
 <<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
 
