@@ -10,9 +10,9 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![Cards](https://prnt.sc/6KyQvnP6Ihr_)
 
-![Texto alternativo](https://prnt.sc/rBaPIG8oudzX)
+![Detalhes](https://prnt.sc/rBaPIG8oudzX)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+![Console](https://prnt.sc/RlQTD01MxdV0) 
 
